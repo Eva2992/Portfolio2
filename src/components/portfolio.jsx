@@ -1,7 +1,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useEffect, useState } from "react";
 import { Github, Linkedin, Mail, FileDown, Moon, Sun, Code, Briefcase, Award, GraduationCap, Sparkles } from "lucide-react";
-import "./Portfolio.css";
+import "./portfolio.css";
 
 export default function Portfolio() {
 
